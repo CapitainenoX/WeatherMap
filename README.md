@@ -1,17 +1,17 @@
-# WeatherMap
+# WeatherMap (HTML Only)
 
-**WeatherMap** est une application météo **en un seul fichier HTML**, simple et autonome.  
-Aucune installation ni clé API nécessaire.
+**WeatherMap** is a **single-file HTML** weather application, simple and standalone.  
+No installation or API key required.
 
-## Fichiers
+## Files
 - `weathermap.html`
-- Logo : `logo.png`
+- Logo: `logo.png`
 
-## Fonctionnalités
-- Carte sombre interactive (Leaflet + CARTO)
-- Recherche de lieux (OpenStreetMap / Nominatim)
-- Clic sur la carte → météo instantanée
-- Données météo : Open-Meteo (sans clé)
+## Features
+- Interactive dark map (Leaflet + CARTO)
+- Location search (OpenStreetMap / Nominatim)
+- Click on the map → instant weather
+- Weather data: Open-Meteo (no key required)
 
-## Utilisation
-1. Ouvrir `weathermap.html` dans un navigateur
+## Usage
+1. Open `weathermap.html` in a browser
