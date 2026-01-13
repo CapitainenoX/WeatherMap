@@ -1,4 +1,4 @@
-# WeatherMap (HTML Only)
+# WeatherMap
 
 **WeatherMap** is a **single-file HTML** weather application, simple and standalone.  
 No installation or API key required.
